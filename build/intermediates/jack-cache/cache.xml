@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/libs/pg-checksum-1.0-jar-with-dependencies.jar"
+        revision="25.0.2"
+        sha1="08fea2866a73f587a3540cd9fcb4e9c6b4d777ec">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/pg-checksum-1.0-jar-with-dependencies-c9f22261608000aabe9a650836c9ac729eff396c.jar" />
+    </item>
+    <item
+        jar="/home/ashish/.android/build-cache/465b24b7890cc9533b2ff396d97320ddef716759/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-049487cfd58fcbd2038c91079ca15294e073e0ad.jar" />
+    </item>
+    <item
+        jar="/home/ashish/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-22.2.1-36c5ecc06ca161f7905ba149c0911ebbe22e4341.jar" />
+    </item>
+    <item
+        jar="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/libs/PGSDK_V2.0.jar"
+        revision="25.0.2"
+        sha1="ac7573d38f31559f8f027eb698769d3ebad40b64">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/PGSDK_V2.0-c13850169d7910a01580aa3551c71afeaad6fb00.jar" />
+    </item>
+    <item
+        jar="/home/ashish/.android/build-cache/465b24b7890cc9533b2ff396d97320ddef716759/output/jars/libs/internal_impl-22.2.1.jar"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-22.2.1-909a82e9ad791325d88810f4dbb9bef4ffb7d233.jar" />
+    </item>
+    <item
+        jar="/home/ashish/Android/Sdk/platforms/android-22/android.jar"
+        revision="25.0.2"
+        sha1="79cb26a0e1c81773e9354a01d671ef3c465856d8">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-93bb2d74282fa2580bdb5321fe1104ba2c547caf.jar" />
+    </item>
+
+</items>

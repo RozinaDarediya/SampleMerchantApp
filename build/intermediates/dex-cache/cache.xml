@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ashish/.android/build-cache/465b24b7890cc9533b2ff396d97320ddef716759/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/classes_049487cfd58fcbd2038c91079ca15294e073e0ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/libs/pg-checksum-1.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08fea2866a73f587a3540cd9fcb4e9c6b4d777ec">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/pg-checksum-1.0-jar-with-dependencies_c9f22261608000aabe9a650836c9ac729eff396c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ashish/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_36c5ecc06ca161f7905ba149c0911ebbe22e4341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ashish/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/gson-2.8.2_e8a77e94be233552c214dc6f62a18e7bffbd8b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/libs/PGSDK_V2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac7573d38f31559f8f027eb698769d3ebad40b64">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/PGSDK_V2.0_c13850169d7910a01580aa3551c71afeaad6fb00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ashish/.android/build-cache/465b24b7890cc9533b2ff396d97320ddef716759/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/ashish/Downloads/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_909a82e9ad791325d88810f4dbb9bef4ffb7d233.jar" />
+    </item>
+
+</items>
